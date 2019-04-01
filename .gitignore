@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 /target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -27,3 +28,290 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+=======
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# Sensitive or high-churn files:
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+
+# Gradle:
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# CMake
+cmake-build-debug/
+cmake-build-release/
+
+# Mongo Explorer plugin:
+.idea/**/mongoSettings.xml
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+.idea/replstate.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+!/.mvn/wrapper/maven-wrapper.jar
+### CVS template
+/CVS/*
+**/CVS/*
+.cvsignore
+*/.cvsignore
+
+.gitignore
+.idea/inspectionProfiles/
+.idea/libraries/Maven__cn_com_cr_KettleUtils_1_0.xml
+.idea/workspace.xml
+KettleUtils/src/main/resources/
+KettleUtils/src/test/
+KettleUtils/target/
+"docs/\351\241\271\347\233\256\350\277\233\345\272\246/"
+extends/security/src/main/resources/
+extends/security/src/test/
+extends/zlicense/src/
+extends/zlicense/zlicense-core/src/test/
+extends/zlicense/zlicense-core/target/generated-sources/
+extends/zlicense/zlicense-create/src/test/
+extends/zlicense/zlicense-create/target/generated-sources/
+extends/zlicense/zlicense-verify/src/main/resources/
+generator/target/
+src/.idea/inspectionProfiles/
+src/main/java/com/cr/servicegateway/system/tools/webserivce/
+src/main/webapp/WEB-INF/views/dict/
+src/main/webapp/resources/file/log/
+src/main/webapp/resources/file/photo/
+src/main/webapp/resources/file/temp/
+target/classes/
+target/crHesb.war
+target/crHesb.war.original
+target/crHesb/META-INF/
+target/crHesb/WEB-INF/
+target/crHesb/resources/css/
+target/crHesb/resources/file/
+target/crHesb/resources/images/
+target/crHesb/resources/plugins/My97DatePicker/
+target/crHesb/resources/plugins/ace/
+target/crHesb/resources/plugins/artTemplate/
+target/crHesb/resources/plugins/bootstrap/
+target/crHesb/resources/plugins/breadcrumb/
+target/crHesb/resources/plugins/code/
+target/crHesb/resources/plugins/cron/
+target/crHesb/resources/plugins/cropbox/
+target/crHesb/resources/plugins/easyui/
+target/crHesb/resources/plugins/echarts/
+target/crHesb/resources/plugins/eovaicon/.gitignore
+target/crHesb/resources/plugins/eovaicon/ReadMe.txt
+target/crHesb/resources/plugins/eovaicon/demo.html
+target/crHesb/resources/plugins/eovaicon/icon.7z
+target/crHesb/resources/plugins/eovaicon/icon.css
+target/crHesb/resources/plugins/eovaicon/icon.js
+target/crHesb/resources/plugins/eovaicon/jquery-2.0.3.js
+target/crHesb/resources/plugins/gooflow/
+target/crHesb/resources/plugins/jquery-form/
+target/crHesb/resources/plugins/jquery-validation/
+target/crHesb/resources/plugins/jsplumb/
+target/crHesb/resources/plugins/log/
+target/crHesb/resources/plugins/mine/
+target/crHesb/template/
+target/generated-sources/
+target/maven-archiver/
+target/maven-status/
+/.gitignore
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# Sensitive or high-churn files:
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+
+# Gradle:
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# CMake
+cmake-build-debug/
+cmake-build-release/
+
+# Mongo Explorer plugin:
+.idea/**/mongoSettings.xml
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+.idea/replstate.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+!/.mvn/wrapper/maven-wrapper.jar
+### CVS template
+/CVS/*
+**/CVS/*
+.cvsignore
+*/.cvsignore
+
+.mule/objectstore/
+.mule/queuestore/
+"docs/\351\241\271\347\233\256\350\277\233\345\272\246/\351\241\271\347\233\256\346\261\207\346\212\2453\346\234\21019\346\227\245.txt"
+id_file
+src/main/java/com/cr/servicegateway/engine/mq/listener/
+/src/.idea/
+/mq/
+/.idea/
+/.mule/
+/elfinder/target/
+/elfinder/elfinder.iml
+/generator/generator.iml
+/hl7-parse/hl7-parser.iml
+/hl7-parse/.idea/
+/KettleUtils/KettleUtils.iml
+/crServiceGateway.iml
+/velocity.log
+/sql-generator/sql-generator.iml
+/mule-cluster/mule-cluster.iml
+/mule-spring/mule-module-spring-config.iml
+!/libs/mmc-agent-api-3.7.0.jar
+!/libs/mule-core-ee-3.9.1.jar
+!/libs/truelicense-1.29.jar
+!/libs/mule-module-tracking-ee-3.9.1.jar
+!/libs/mmc-agent-impl-3.7.0.jar
+!/libs/mule-module-cluster-ee-3.9.1.jar
+!/libs/mule-module-launcher-3.9.1.jar
+!/libs/mmc-discovery-api-3.3.2.jar
+!/libs/truexml-1.29.jar
+!/libs/mmc-discovery-impl-jmdns-3.3.2.jar
+!/libs/hamcrest-library-1.3.jar
+!/libs/jmdns.jar
+!/libs/hazelcast-3.8.1.jar
+!/libs/hazelcast-client-3.8.1.jar
+!/libs/hamcrest-core-1.3.jar
+!/libs/
+/mule-spring/target/
+/mule-spring/dependency-reduced-pom.xml
+/mule-scripting/mule-module-scripting.iml
+>>>>>>> 35ff4119f3e5bcb8031c9d037825d9dcfbebfab3
